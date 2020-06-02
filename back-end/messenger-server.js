@@ -10,6 +10,6 @@ app.use(express.static("public"));
 
 const io = socket(messangerServer);
 
-io.on("connection", () => {
+io.on("connection", (socket) => {
   console.log("Made a socket connection");
 });

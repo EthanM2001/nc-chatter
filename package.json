@@ -11,7 +11,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "server": "nodemon messenger-server.js"
   },
   "repository": {
     "type": "git",
