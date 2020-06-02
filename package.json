@@ -12,8 +12,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "jest",
-    "server": "nodemon back-end/messenger-server.js",
-    "start": "node back-end/messenger-server.js"
+    "dev-server": "nodemon back-end/messenger-server.js",
+    "start-server": "node back-end/messenger-server.js"
   },
   "repository": {
     "type": "git",
