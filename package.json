@@ -1,0 +1,26 @@
+{
+  "name": "nc-chatter",
+  "version": "1.0.0",
+  "description": "chat-project",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.0.1",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petruS92/nc-chatter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petruS92/nc-chatter/issues"
+  },
+  "homepage": "https://github.com/petruS92/nc-chatter#readme"
+}
